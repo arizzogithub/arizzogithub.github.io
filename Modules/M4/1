@@ -36,8 +36,8 @@ A new Landing page has to be created for each option
 							<li><a href="Module 2.html">Understanding Artificial Intelligence</a></li>
 							<li><a href="Module 3.html">Numerical Analysis</a></li>
 							<li><a href="Module 4.html">Machine Learning</a></li>
-       				<li><a href="Module 5.html">Intelligent Agents</a></li>
-              <li><a href="Module 6.html">Knowledge Representation and Reasoning</a></li>
+       							<li><a href="Module 5.html">Intelligent Agents</a></li>
+              						<li><a href="Module 6.html">Knowledge Representation and Reasoning</a></li>
 							<li><a href="Module 7.html">Research Methods and Professional Practice</a></li>
 							<li><a href="Project.html">MSc Computing Project</a></li>
 						</ul>
@@ -66,22 +66,22 @@ A new Landing page has to be created for each option
 							<section id="one">
 								<div class="inner">
 									<header class="major">
-										<h2>Learning Outcomes</h2>
+										<h2>Module Aims</h2>
 									</header>
 									<ol>
-										<li>Articulate the legal, social, ethical and professional issues faced by machine learning professionals.</li>
-										<li>Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.</li>
-										<li>Apply and critically appraise machine learning techniques to real-world problems, particularly where technical risk and uncertainty is involved.</li>
-										<li>Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.</li>
+										<li>An understanding of the motivations for, and appropriate use of, agent-based computing.</li>
+										<li>An understanding of the main agent models in use today and their grounding in artificial intelligence research.</li>
+										<li>The knowledge and skills required to develop, deploy and evaluate the tools and techniques of intelligent systems to solve real-world problems.</li>
+										<li>An understanding of contemporary research issues in the area of intelligent agent systems.</li>
 									</ol>
 
                   <header class="major">
 										<h2>Learning Outcomes</h2>
 									</header>
 									<ol>
-										<li>Articulate the legal, social, ethical and professional issues faced by machine learning professionals.</li>
-										<li>Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.</li>
-										<li>Apply and critically appraise machine learning techniques to real-world problems, particularly where technical risk and uncertainty is involved.</li>
+										<li>Identify and critically analyse agent-based systems, differentiating between architectures and approaches.</li>
+										<li>Apply and critically evaluate intelligent agent techniques to real-world problems, particularly where technical risk and uncertainty is involved.</li>
+										<li>Deploy critically appropriate software tools and skills for the design and implementation of an agent-based system, bearing in mind applicable legal, social, ethical and professional issues.</li>
 										<li>Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.</li>
 									</ol>
 								</div>
