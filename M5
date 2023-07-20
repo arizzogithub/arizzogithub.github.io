@@ -1,0 +1,445 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Anastasia Rizzo</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo">Anastasia Rizzo</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="About.html">About Me</a></li>
+							<li><a href="M1.html">Induction Module</a></li>
+							<li><a href="M2.html">Understanding Artificial Intelligence</a></li>
+							<li><a href="M3.html">Numerical Analysis</a></li>
+							<li><a href="M4.html">Machine Learning</a></li>
+							<li><a href="M5.html">Intelligent Agents</a></li>
+							<li><a href="M6.html">Knowledge Representation and Reasoning</a></li>
+							<li><a href="M7.html">Research Methods and Professional Practice</a></li>
+							<li><a href="M8.html">MSc Computing Project</a></li>
+						</ul>
+					
+					</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							<header class="major">
+								<h1>Intelligent Agents</h1>
+							</header>
+							<div class="content">
+								<p>A study of software systems that perceive their environment and take actions within it to achieve their goals autonomously.</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Module Aims</h2>
+									</header>
+									<ol>
+										<li>An understanding of the motivations for, and appropriate use of, agent-based computing.</li>
+										<li>An understanding of the main agent models in use today and their grounding in artificial intelligence research.</li>
+										<li>he knowledge and skills required to develop, deploy and evaluate the tools and techniques of intelligent systems to solve real-world problems.</li>
+										<li>An understanding of contemporary research issues in the area of intelligent agent systems.</li>
+									</ol>	<header class="major">
+									</header>
+									<header class="major">
+										<h2>Learning Outcomes</h2>
+									</header>
+									<ol>
+										<li>Identify and critically analyse agent-based systems, differentiating between architectures and approaches.</li>
+										<li>Apply and critically evaluate intelligent agent techniques to real-world problems, particularly where technical risk and uncertainty is involved.</li>
+										<li>Deploy critically appropriate software tools and skills for the design and implementation of an agent-based system, bearing in mind applicable legal, social, ethical, and professional issues.</li>
+										<li>Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.</li>
+									</ol>	<header class="major">
+									</header>
+									
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="spotlights">
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic08.jpg" alt="" data-position="center center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Activities/Artefacts</h3>
+											</header>
+											<header class="major">
+												<h4>1. Collaborative Discussions</h4>
+											</header>
+											<p>Units 1,2,3. Collaborative Discussion 1: The 4th Industrial Revolution</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Initial post 1.htm" class="button">Initial Post</a></li>
+											</ul>
+											<ul class="actions">	
+												<li><a href="Modules/Module4/Summary post 1.htm" class="button">Summary Post</a></li>
+											</ul>
+											<p>Units 8,9,10. Collaborative Discussion 2: Legal and Ethical views on ANN applicationsForum</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Initial post 2.htm" class="button">Initial Post</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Summary post 2.htm" class="button">Summary Post</a></li>
+											</ul>
+											<header class="major">
+												<h4>2. E-portfolio Activities</h4>
+											</header>
+											<p>Unit 2: Exploratory Data Analysis</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Unit02 A Tutorial on Exploratory Data Analysis.html" class="button">A Tutorial on Exploratory Data Analysis</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Unit02 Data Analysis - auto-mpg.html" class="button">AUTO_MPG EDA</a></li>
+											</ul>
+											<p>Unit 3: Correlation and Regression</p>											
+											<ul class="actions">
+												<li><a href="Modules/Module4/covariance_pearson_correlation.html" class="button">Covariance Pearson Correlation</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/linear_regression.html" class="button">Linear Regression</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/multiple_linear_regression.html" class="button">Multiple Linear Regression</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/polynomial_regression.html" class="button">Polynomial Regression</a></li>
+											</ul>
+											
+											<p>Unit 5: Jaccard Coefficient Calculations</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/K-means demo.html" class="button">Jaccard Coefficient Calculations</a></li>
+				
+											</ul>
+											
+											<p>Unit 7: Perceptons (ANN)</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/simple_perceptron.html" class="button">Simple Perceptron</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/perceptron_AND_operator.html" class="button">Perceptron AND Operator</a></li>												
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/multi-layer Perceptron.html" class="button">Multi-layer Perceptron</a></li>												
+											</ul>
+											<p>Unit 8: Gradient Descent Cost Function</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/gradient_descent_cost_function.html" class="button">Gradient Descent Cost Function</a></li>
+											</ul>
+											<p>Unit 9: CNN Model Activity</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Convolutional Neural Networks.html" class="button">Convolutional Neural Networks (CNN) - Object Recognition</a></li>
+											</ul>
+											<p>Unit 11: Model Performance Measurement</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Model_Performance_Measurement.html" class="button">Model Performance Measurement</a></li>
+											</ul>
+											<header class="major">
+												<h4>3. Assignments (Team Work)</h4>
+											</header>
+											<p>Assignment 1</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Team Contract.pdf" class="button">Team Contract</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Exploratory Data Analysis - AirBnB.html" class="button">TEXT</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Airbnb EDA addendum.html" class="button">TEXT</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Airbnb dbscan.html" class="button">TEXT</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Airbnb business analysis report.pdf" class="button">TEXT</a></li>													
+											</ul>
+											<p>Assignment 2</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/ANN_58_percent.html" class="button">TEXT</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/CNN_82_percent.html" class="button">TEXT</a></li>
+											</ul>	
+											<ul class="actions">
+												<li><a href="Modules/Module4/Neural network object recognition presentation.pdf" class="button">TEXT</a></li>
+											</ul>	
+											
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 1: Introduction to Agent-Based Computing</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Collaborative Discussion 1: Initial Post</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 2: Introducing First Order Logic</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+										</div>
+									</div>
+								
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 3: Agent Architectures</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Summary post 1.htm" class="button">Collaborative Discussion 1: Summary Post</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+									<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 4: Hybrid Agent Architectures</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											
+										</div>
+									</div>
+								
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 5: Agent Communication</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Collaborative Discussion 2: Initial Post</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+									<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 6: Working Together</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Development Team Project: Project Report</a></li>
+											</ul>
+										</div>
+									</div>
+								
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 7: Natural Language Processing (NLP)</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/simple_perceptron.html" class="button">Collaborative Discussion 2: Summary Post</a></li>
+											</ul>
+											
+										</div>
+									</div>
+								</section>
+									<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 8: Understanding Natural Language Processing (NLP)</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Creating Parse Trees</a></li>
+											</ul>
+											
+										</div>
+									</div>
+								
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 9: Introduction to Adaptive Algorithms</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Convolutional Neural Networks.html" class="button">Collaborative Discussion 3: Initial Post</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+									<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 10: Deep Learning in Action</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Deep Learning in Action</a></li>
+											</ul>
+										</div>
+									</div>
+								
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 11: Intelligent Agents in Action</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Model_Performance_Measurement.html" class="button">Collaborative Discussion 3: Summary Post</a></li>
+											</ul>
+											<ul class="actions">
+												<li><a href="Modules/Module4/Model_Performance_Measurement.html" class="button">Development Team Project: Presentation Assignment</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+									<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Unit 12: The Future of Intelligent Agents</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											
+										</div>
+									</div>
+								
+								</section>
+								
+						<!-- Three -->
+							<section id="three">
+								<div class="inner">
+									<header class="major">
+										<h3>Professional Skills matrix and Action Plan (PDP)</h3>
+									</header>
+									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+									<ul class="actions">
+										<li><a href="generic.html" class="button next">Get Started</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>2023 Anastasia Rizzo</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
