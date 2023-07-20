@@ -1,0 +1,20 @@
+Lukashevich (2023) opened an interesting topic by providing a critical perspective on the implementation of agent-based systems in different domains. Her comments on my post sparked a valuable discussion that allows us to delve deeper into the potential limitations and challenges associated with these systems. I appreciate her contribution and would like to express my opinion on the matter.
+
+While considering the critical perspective by Lukashevich (2023) , I find myself in agreement with her concerns regarding the implementation of agent-based systems. In the case of NASA's Autonomous Flight Safety System (AFSS), ensuring reliable and safe operation is indeed crucial. The field of AI Safety is still developing, and extensive testing and validation are necessary to enhance the robustness and resilience of AI algorithms during spaceflight. I concur that addressing these reliability concerns is essential for the successful application of agent-based systems in space exploration.
+
+Similarly, a mention by Lukashevich (2023) of the lack of standardization and interoperability among different AI models in ocean research resonates with me. Establishing common standards and fostering interoperability are fundamental for effective collaboration and advancements in this field. By addressing these challenges, we can maximize the potential benefits of agent-based systems in understanding the underwater environment and ecosystems.
+
+Furthermore, I agree with Lukashevich (2023) about accurately capturing the complexity of biological systems in VCell projects. The dynamic and emergent behaviors exhibited by these systems pose significant challenges, and efforts to develop hybrid modeling approaches are commendable. Integrating various fragments into comprehensive models holds promise for achieving a holistic understanding of cellular behavior and advancing medicine and biology.
+
+In conclusion, the critical perspective presented by Lukashevich (2023), along with my concurrence, brings greater depth to the discussion surrounding agent-based systems.By recognizing the potential limitations and challenges, we can work towards addressing them effectively. It is through continuous improvement and thoughtful consideration that we can harness the full potential of agent-based systems and their ability to enhance efficiency, safety, and cost-effectiveness in various domains.
+
+
+References:
+
+Lukashevich , V. (2023) Re: Initial Post. Available from: https://www.my-course.co.uk/mod/forum/discuss.php?d=157531#p241046 [Accessed 23 May 2023].
+
+Yampolskiy, R. (2019) Unpredictability of AI. arXiv preprint arXiv:1905.13053. Available from: https://arxiv.org/abs/1905.13053 [Accessed 23 May 2023].
+
+Costanzi, R., Fenucci, D., Manzari, V., Micheli, M., Morlando, L., Terracciano, D., Caiti, A., Stifani, M. & Tesei, A. (2020) Interoperability among unmanned maritime vehicles: review and first in-field experimentation. Frontiers in Robotics and AI, 7, p.91.
+
+Liu, F., Heiner, M. & Gilbert, D. (2022) Hybrid modelling of biological systems: current progress and future prospects. Briefings in Bioinformatics, 23(3), p.bbac081.
